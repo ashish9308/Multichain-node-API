@@ -7,7 +7,7 @@ var listassets;
 var totalbalance;
 var listwallettransactions;
 const connection = {
-    port: "provide port no"",
+    port: "provide port no",
     host: 'provide machine ip',
     user: "provide multichain username",
     pass: "provide multichain password"
